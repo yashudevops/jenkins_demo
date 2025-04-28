@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "this is my frist script for jenkins"
-echo "I have just edited this script"
+echo "I just created the webhook in git repo"
